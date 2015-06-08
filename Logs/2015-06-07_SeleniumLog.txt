@@ -1,0 +1,61 @@
+02:59:28 ------ Starting Log...
+02:59:29 ------ -------------------------------------------------
+02:59:32 START- Starting Test Suite!
+02:59:34 START- test() started!
+02:59:35 FAIL - test() failed.
+02:59:36 TIME - Elapsed Time: 0.018
+02:59:37 FNSHD- Finished Test Suite!
+02:59:38 TIME - Total Time: 0.043
+02:59:39 ------ -------------------------------------------------
+03:02:39 START- Starting Test Suite!
+03:02:46 START- test() started!
+03:02:82 FAIL - test() failed.
+03:02:83 TIME - Elapsed Time: 11.761
+03:02:85 FNSHD- Finished Test Suite!
+03:02:86 TIME - Total Time: 11.818
+03:02:87 ------ -------------------------------------------------
+03:03:70 START- Starting Test Suite!
+03:03:71 START- test() started!
+03:03:31 FAIL - test() failed.
+03:03:32 TIME - Elapsed Time: 13.603
+03:03:32 FNSHD- Finished Test Suite!
+03:03:32 TIME - Total Time: 13.617
+03:03:33 ------ -------------------------------------------------
+03:04:22 START- Starting Test Suite!
+03:04:22 START- test() started!
+03:04:27 FAIL - test() failed.
+03:04:28 TIME - Elapsed Time: 20.051
+03:04:28 FNSHD- Finished Test Suite!
+03:04:28 TIME - Total Time: 20.065
+03:04:29 ------ -------------------------------------------------
+03:05:23 START- Starting Test Suite!
+03:05:24 START- test() started!
+03:05:47 FAIL - test() failed.
+03:05:47 TIME - Elapsed Time: 9.232
+03:05:48 FNSHD- Finished Test Suite!
+03:05:48 TIME - Total Time: 9.245
+03:05:48 ------ -------------------------------------------------
+03:07:67 START- Starting Test Suite!
+03:07:67 START- test() started!
+03:07:29 FAIL - test() failed.
+03:08:71 START- Starting Test Suite!
+03:08:72 START- test() started!
+03:08:00 FAIL - test() failed.
+03:08:04 TIME - Elapsed Time: 11.279
+03:08:11 FNSHD- Finished Test Suite!
+03:08:14 TIME - Total Time: 11.295
+03:08:17 ------ -------------------------------------------------
+03:21:95 START- Starting Test Suite!
+03:21:96 START- test() started!
+03:21:69 FAIL - test() failed.
+03:21:43 TIME - Elapsed Time: 11.469
+03:21:44 FNSHD- Finished Test Suite!
+03:21:44 TIME - Total Time: 11.482
+03:21:44 ------ -------------------------------------------------
+03:23:44 START- Starting Test Suite!
+03:23:44 START- test() started!
+03:23:98 FAIL - test() failed.
+03:23:52 TIME - Elapsed Time: 13.078
+03:23:53 FNSHD- Finished Test Suite!
+03:23:53 TIME - Total Time: 13.092
+03:23:53 ------ -------------------------------------------------
